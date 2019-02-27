@@ -1,0 +1,6 @@
+./reference/newsubject
+./preprocessed
+r reference.mha
+m DESS_prep.mha
+m T2_0_prep.mha
+

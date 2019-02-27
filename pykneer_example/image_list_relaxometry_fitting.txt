@@ -1,0 +1,12 @@
+./preprocessed
+./segmented
+7
+i1 T2_0_orig.mha
+i2 T2_1_orig.mha
+i3 T2_2_orig.mha
+i4 T2_3_orig.mha
+i5 T2_4_orig.mha
+i6 T2_5_orig.mha
+i7 T2_6_orig.mha
+bm T2_0_prep_f.mha
+cm T2_0_prep_fc.mha
