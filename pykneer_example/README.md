@@ -18,7 +18,7 @@ Input files:
 Output files:  
 - `thickness.csv`  
 - `volume.csv`  
-- `fitting.csv
+- `maps.csv`
 
 For binder:  
 - `requirements.txt` in the parent folder
