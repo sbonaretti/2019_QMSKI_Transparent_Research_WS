@@ -1,4 +1,4 @@
-## Example of use of *pyKNEEr* on binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sbonaretti/2019_QMSKI_Transparent_Research_WS/master?filepath=pykneer_example%2Fpykneer_example.ipynb)
+## Example #1 of use of *pyKNEEr* on binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sbonaretti/2019_QMSKI_Transparent_Research_WS/master?filepath=pykneer_example%2Fpykneer_example.ipynb)
 
 Jupyter notebook: 
 - `pykneer_example.ipybn`
