@@ -20,7 +20,7 @@ Input files:
 Output files:  
 - `thickness.csv`  
 - `volume.csv`  
-- `EPG_demo.csv
+- `EPG_demo.csv`
 
 For binder:  
 - `requirements.txt` in the parent folder
